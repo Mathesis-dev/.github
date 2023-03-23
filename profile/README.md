@@ -1,12 +1,10 @@
-## Hi there 👋
+## Bem vindo ao Mathesis 👋
 
-<!--
+## Sobre
 
-**Here are some ideas to get you started:**
+Projeto criado durante o TCC 1 e 2 do curso de Ciência da Computação, desenvolvido pelos alunos Geovane e Eduardo. Mathesis consiste em uma plataforma que une alunos e professores para marcarem aulas particulares. Além disso, conta com uma integração com o ChatGPT, buscando responder algumas dúvidas rápidas de maneira eficiente.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Alguns links úteis
+
+- Aplicação: https://mathesis.vercel.app/
+- Trello: https://trello.com/b/yuTgn8Et/tcc
