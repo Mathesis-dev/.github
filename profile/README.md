@@ -6,6 +6,6 @@ Projeto criado durante o TCC 1 e 2 do curso de Ciência da Computação, desenvo
 
 ## Alguns links úteis
 
-- Aplicação: https://mathesis.vercel.app/
-- Trello: https://trello.com/b/yuTgn8Et/tcc
-- <a href="https://app.codacy.com/gh/Mathesis-dev/mathesis-front-end/dashboard">Codacy</a>
+- <a href="https://mathesis.vercel.app/" target="_blank">Aplicação</a>
+- <a href="https://trello.com/b/yuTgn8Et/tcc" target="_blank">Trello</a>
+- <a href="https://app.codacy.com/gh/Mathesis-dev/mathesis-front-end/dashboard" target="_blank">Codacy</a>
